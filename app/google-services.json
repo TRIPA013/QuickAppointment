@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "989411528944",
+    "firebase_url": "https://quick-appointment-823dd.firebaseio.com",
+    "project_id": "quick-appointment-823dd",
+    "storage_bucket": "quick-appointment-823dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989411528944:android:6d49d9714a2d6aa6ccf235",
+        "android_client_info": {
+          "package_name": "com.abhi.quickappointment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989411528944-c7650032k627dtro4jihs2rv063p5dff.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abhi.quickappointment",
+            "certificate_hash": "7741c5673ba1c67c1d72e35e1d75b5ce47ca65f6"
+          }
+        },
+        {
+          "client_id": "989411528944-9oq8hpur53v92mcqnoi2nj4d1n7t2s0j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClGHevjTmQCpobihKHclQ_LwLMWcupeyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989411528944-9oq8hpur53v92mcqnoi2nj4d1n7t2s0j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
